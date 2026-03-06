@@ -6,4 +6,4 @@ For a detailed breakdown of the design, kinematics, and manufacturing processes,
 
 * [**Full Project Report (PDF)**](Group%2021%20Air%20Engine%20Report.pdf) - Covers assembly, kinematics, and material selection.
 * [**Individual CAM & G-Code Report (DOCX)**](Cylindrical%20Pivot%20G%20Code%20Report.docx) - Detailed Siemens ShopMill logic and step-by-step machining for the Cylindrical Pivot.
-* [**Project Presentation (PPTX)**](Air%20Engine%20-%20group%2021.pptx) - Visual overview and group findings.
+* [**Project Presentation (PPTX)**](Air%20engine%20-%20Group%2021.pptx) - Visual overview and group findings.
